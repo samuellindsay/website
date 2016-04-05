@@ -421,12 +421,5 @@ Small Device Styles
     max-width: 480px;
     font-size: 11px;
   }
-#harold {
-  width:25px;
-  height:25px;
-}
-#harold:hover{
-  width:initial;
-  height:initial;
-}
+
 }
